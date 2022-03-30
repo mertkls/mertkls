@@ -1,4 +1,4 @@
-## Hi there👋  I'm Yunus Emre
+## Hi there👋  I'm Mert Keleş
 
 🔭I’m currently working on Junior Software Developer</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL </br></br>⚡ I like to develop projects with the technologies I learned.</br></br>
 
